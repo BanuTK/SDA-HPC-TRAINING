@@ -31,11 +31,11 @@ my.csc.fi
 puhti.csc.fi
 
 ### Useful links
-..* [Linux basics Tutorial for CSC](https://docs.csc.fi/support/tutorials/env-guide/overview/)
+* [Linux basics Tutorial for CSC](https://docs.csc.fi/support/tutorials/env-guide/overview/)
 
-..* [CSC User Guides and Manuals](https://docs.csc.fi/)
+* [CSC User Guides and Manuals](https://docs.csc.fi/)
 
-..* [my.csc.fi](https://my.csc.fi/welcome)
+* [my.csc.fi](https://my.csc.fi/welcome)
 
-..* [puhti.csc.fi](https://www.puhti.csc.fi/)
+* [puhti.csc.fi](https://www.puhti.csc.fi/)
 
