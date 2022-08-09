@@ -39,3 +39,4 @@ puhti.csc.fi
 
 * [puhti.csc.fi](https://www.puhti.csc.fi/)
 
+* [GitHub cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
