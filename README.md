@@ -4,11 +4,11 @@ This repository is used in training for the University of Helsinki's spatiotempo
 
 ### Useful links
 
-* [my.csc.fi](my.csc.fi)
+* [my.csc.fi](https://my.csc.fi)
 
-* [puhti.csc.fi](puhti.csc.fi)
+* [puhti.csc.fi](https://puhti.csc.fi)
 
-* [docs.csc.fi/](docs.csc.fi/)
+* [docs.csc.fi/](https://docs.csc.fi/)
 
 * [Linux basics Tutorial for CSC](https://docs.csc.fi/support/tutorials/env-guide/overview/)
 
