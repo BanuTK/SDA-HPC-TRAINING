@@ -1,0 +1,7 @@
+Remember following:
+
+Things you print will go to file defined in run_script
+In this example prints are saved to output.txt
+
+Saved results will be saved similarly as in normal computer
+Like this file is saved in remember.txt
