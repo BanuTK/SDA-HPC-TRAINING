@@ -7,7 +7,7 @@ def check_my_gpu():
     """ Check if system has GPU available and print possible GPU details."""
     gpu_available = torch.cuda.is_available()
     if gpu_available:
-        print("\nGPU is available!")
+        print("\nGPU found!")
         number_of_gpus = torch.cuda.device_count()
         print("Number of GPUs: {}".format(torch.cuda.device_count()))
         print("GPU types:")
@@ -18,8 +18,8 @@ def check_my_gpu():
 
 def check_my_cpu():
     """ Check number of CPUs in partition and how many you are booking."""
-    print("\nTotal number of CPUs in the system: {}".format(os.cpu_count()))
-    print("You are booking {} CPUs.".format(len(os.sched_getaffinity(0))))
+    print("\nTotal number of CPU cores in the system: {}".format(os.cpu_count()))
+    print("You are booking {} CPU cores.".format(len(os.sched_getaffinity(0))))
 
 def create_file():
     """ Save simple text file to remember.txt."""
