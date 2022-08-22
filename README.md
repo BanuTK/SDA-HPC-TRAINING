@@ -22,8 +22,4 @@ This repository is used in training for the University of Helsinki's spatiotempo
 
 * [CSC User Guides and Manuals](https://docs.csc.fi/)
 
-* [my.csc.fi](https://my.csc.fi/welcome)
-
-* [puhti.csc.fi](https://www.puhti.csc.fi/)
-
 * [GitHub cheat sheet](https://education.github.com/git-cheat-sheet-education.pdf)
