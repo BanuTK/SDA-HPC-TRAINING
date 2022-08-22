@@ -18,7 +18,7 @@ def check_my_gpu():
 
 def check_my_cpu():
     """ Check number of CPUs in partition and how many you are booking."""
-    print("\nTotal number of CPU cores in the system: {}".format(os.cpu_count()))
+    print("\nTotal number of CPU cores found: {}".format(os.cpu_count()))
     print("You are booking {} CPU cores.".format(len(os.sched_getaffinity(0))))
 
 def create_file():
